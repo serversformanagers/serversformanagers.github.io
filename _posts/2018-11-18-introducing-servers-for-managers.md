@@ -5,7 +5,7 @@ title: Introducing Servers for Managers
 
 Thank you for checking out this site. This site is specifically written for people who would like to have a more effective way of managing software projects that involves communicating with developers/programmers/software engineers -- which is oftentime a challenge! 
 
-![Do not Disturb](/donotdisturb.png)
+![Do not Disturb](/public/donotdisturb.png)
 
 
 ### Project Management Headaches due to miscommunication
