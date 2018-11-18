@@ -9,7 +9,7 @@ gems: [jekyll-paginate]
 
 # Setup
 title:            Servers For Managers
-tagline:          Understand technical jargons for better business decisions.'
+tagline:          Understand technical jargons for better business decisions.
 description:      'A web development blog which aims to help project managers, product owners abd businessmen to understand very technical terms and how it relates to their businesses.'
 url:              https://www.serversformanagers.com
 
