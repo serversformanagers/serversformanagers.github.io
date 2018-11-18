@@ -3,14 +3,16 @@ layout: page
 title: About
 ---
 
-This website is intended for Project Managers, Businessmen and generally non-technical audience who would like to have a better understanding of common terms  being used in the context of web development.
+This website is intended for Project Managers, Technical Recruiters,  Businessmen, Human Resource Officers, Customers and generally non-technical audience who would like to have a better understanding of common terms  being used in the context of web development.
 
 This website aims to achieve the following goals:
 
 * Serve as a quick reference to understand certain word or topic w/o actually having to deep dive into the subject. 
 * Break the communication barrier between management and IT Professionals.
 * Explain subjects in laymans term and assume the audience has no technical background.
-
+* Carry out conversations with IT Professionals effectively by getting familiar with their jargons and even share humour with them!
+* For Technical Recruiters, avoid making mistakes in job posting which could result into getting the wrong candidate for the job.
+* Understand the context of technical conversations by your staff (for auditing and human resource management)
 
 ## Support Us!
 
