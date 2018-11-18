@@ -16,7 +16,7 @@ This website aims to achieve the following goals:
 
 ## Support Us!
 
-If you find this site useful, you can show your support by providing donating to the project:
+If you find this site useful, you can show your support by donating to this project:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
