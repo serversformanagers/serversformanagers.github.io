@@ -12,7 +12,7 @@ This website aims to achieve the following goals:
 * Explain subjects in laymans term and assume the audience has no technical background.
 * Carry out conversations with IT Professionals effectively by getting familiar with their jargons and even share humour with them!
 * For Technical Recruiters, avoid making mistakes in job posting which could result into getting the wrong candidate for the job.
-* Understand the context of technical conversations by your staff (for auditing and human resource management)
+* Understand the context of technical conversations among your staff (for auditing and human resource management)
 
 ## Support Us!
 
